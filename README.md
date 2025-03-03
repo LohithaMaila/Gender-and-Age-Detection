@@ -33,16 +33,16 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
     Gender: Female
     Age: 25-32 years
     
-<img src="gDetecting age and gender girl1.png">
+<img src="Detecting age and gender girl1.png">
 
     >python detect.py --image girl2.jpg
     Gender: Female
     Age: 8-12 years
     
-<img src="Example/Detecting age and gender girl2.png">
+<img src="Detecting age and gender girl2.png">
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-<img src="Example/Detecting age and gender kid1.png">
+<img src="Detecting age and gender kid1.png">
